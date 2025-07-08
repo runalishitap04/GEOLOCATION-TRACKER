@@ -26,3 +26,9 @@ On the consumer side, geolocation trackers are widely integrated into mobile app
 Privacy and data security are critical aspects of geolocation tracking. As these systems collect sensitive personal or corporate location data, it is essential that tracking solutions follow regulations like GDPR or CCPA, encrypt data transmission, and allow users control over who can access their location.
 
 In summary, a geolocation tracker is a powerful tool that leverages satellite and network-based positioning technologies to provide real-time and historical location data for a wide range of uses. With advances in IoT, AI, and mobile computing, geolocation tracking continues to evolve, offering greater accuracy, smarter analytics, and new applications that enhance convenience, safety, and operational efficiency in everyday life and business.
+
+## OUTPUT:-
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/2348f164-c03f-4190-953b-5b36b8011c63" />
+
+<img width="1917" height="975" alt="Image" src="https://github.com/user-attachments/assets/b803ddb3-52a2-4907-98fa-43d0926181db" />
